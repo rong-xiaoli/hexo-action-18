@@ -1,6 +1,6 @@
-name: 'Hexo Action'
+name: 'Hexo Action nodejs-18'
 description: 'Hexo CI/CD action for automating deployment.'
-author: 'sma11black'
+author: 'rong-xiaoli'
 inputs:
   user_name:
     description: 'Github user name'
